@@ -9,3 +9,7 @@ https://github.com/lorisffs/myip-tv/blob/main/IPTV111.txt
 
 
 https://github.com/lorisffs/myip-tv/blob/main/IPTV222.txt
+
+https://github.com/lorisffs/myip-tv/blob/main/IPTV555.txt
+
+https://github.com/lorisffs/myip-tv/blob/main/IPTV666.txt
