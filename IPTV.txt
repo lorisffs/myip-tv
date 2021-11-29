@@ -1,4 +1,4 @@
-中国央视,#genre#
+cctv,#genre#
 
 CCTV1 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080,http://183.207.248.71/cntv/live1/cctv-2/cctv-2
