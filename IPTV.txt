@@ -25,20 +25,100 @@ CCTV14 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
 CCTV17 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226407/index.m3u8
 
 备用中国央视,#genre#
-CCTV-1 综合,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
-CCTV-2 财经,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
-CCTV-3 综艺,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
-CCTV-4 中文国际,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
-CCTV-5 体育,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
-CCTV-5+ 体育赛事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
-CCTV-6 电影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
-CCTV-10 科教,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
-CCTV-14 少儿,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
-CCTV-15 音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
-CCTV-17 农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+CCTV-1综合,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8?fmt=ts2hls
+CCTV-2财经,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/index.m3u8?fmt=ts2hls
+CCTV-3综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4国际,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/index.m3u8?fmt=ts2hls
+CCTV-5体育,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5+,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+CCTV-6电影,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8?fmt=ts2hls
+CCTV-8电视剧,http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
+CCTV-9纪录,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/index.m3u8?fmt=ts2hls
+CCTV-10科教,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+CCTV-11戏曲,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/index.m3u8?fmt=ts2hls
+CCTV-12社会与法,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8?fmt=ts2hls
+CCTV-13新闻,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8?fmt=ts2hls
+CCTV-14少儿,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8?fmt=ts2hls
+CCTV-15音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+CCTV16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV17,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/index.m3u8?fmt=ts2hls
+CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4K超高清,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV 风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+
+港澳频道,#genre#
+鳳凰衛視香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+鳳凰衛視香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+鳳凰衛視香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+
+台湾频道,#genre#
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
+中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+华視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+衛視中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+東森綜合台,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+TVBS歡樂台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+三立都會台,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立台灣台,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+八大綜合台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+八大第一台,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+中天綜合台,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天娛樂台,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+東風衛視,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+緯來育樂台,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+緯來綜合台,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+緯來日本台,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+年代MUCH TV,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#__#
+原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
+#__#
+民視,rtmp://9wv7.mine.nu/sat/tv051
+台視,rtmp://9wv7.mine.nu/sat/tv071
+中視,rtmp://9wv7.mine.nu/sat/tv091
+華視,rtmp://9wv7.mine.nu/sat/tv111
+TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
+MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
+緯來育樂台,rtmp://9wv7.mine.nu/sat/tv701
+緯來日本台,rtmp://9wv7.mine.nu/sat/tv771
+民視,rtmp://59.124.75.138/sat/tv051
+台視,rtmp://59.124.75.138/sat/tv071
+中視,rtmp://59.124.75.138/sat/tv091
+華視,rtmp://59.124.75.138/sat/tv111
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+MoMo綜合台,rtmp://59.124.75.138/sat/tv761
+緯來育樂台,rtmp://59.124.75.138/sat/tv701
+緯來日本台,rtmp://59.124.75.138/sat/tv771
+民視,rtmp://59.124.75.157/sat/tv051
+台視,rtmp://59.124.75.157/sat/tv071
+中視,rtmp://59.124.75.157/sat/tv091
+華視,rtmp://59.124.75.157/sat/tv111
+TVBS歡樂台,rtmp://59.124.75.157/sat/tv421
+MoMo綜合台,rtmp://59.124.75.157/sat/tv761
+緯來育樂台,rtmp://59.124.75.157/sat/tv701
+緯來日本台,rtmp://59.124.75.157/sat/tv771
+#__#
+三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
+三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 
 IPTV,#genre#
-
 IPTV5+ 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 IPTV5+ 576,http://39.134.39.39/PLTV/88888888/224/3221226267/index.m3u8
 IPTV6+ 576,http://39.134.39.39/PLTV/88888888/224/3221226269/index.m3u8
