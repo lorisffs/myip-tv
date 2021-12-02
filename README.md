@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv.m3u
 
 
 
-节目总表地址：http://epg.51zmt.top:8000/e.xml   测试用节目表，点击此处下载（仅提供节目表，不提供节目源）
+节目总表地址：http://epg.51zmt.top:8000/e.xml   测试用节目表，点击http://epg.51zmt.top:8000/test.m3u下载（仅提供节目表，不提供节目源）
 
 央视及各省卫视：http://epg.51zmt.top:8000/cc.xml  地方及数字付费：http://epg.51zmt.top:8000/difang.xml
 
