@@ -7,9 +7,10 @@ https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv.m3u
 
 
 
-
 https://raw.githubusercontent.com/lorisffs/myip-tv/main/IPTV.m3u
 
+
+https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv211213
 
 
 节目总表地址：http://epg.51zmt.top:8000/e.xml   测试用节目表，点击http://epg.51zmt.top:8000/test.m3u
