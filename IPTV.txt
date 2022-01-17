@@ -23,6 +23,7 @@ CCTV-11 戏曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 CCTV-12 社会与法,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 CCTV-13 新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 CCTV14 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
+CCTV16,http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8#http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8#http://39.135.46.246:6610/PLTV/77777777/224/3221225897/index.m3u8?#http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8#http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8#http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226880/index.m3u8
 CCTV17 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226407/index.m3u8
 
 备用中国央视,#genre#
