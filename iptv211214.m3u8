@@ -25,6 +25,8 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1  tvg-logo="cctv4k.png",CCTV-4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="cctv16.png",CCTV16 高清
+http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8#http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8#http://39.135.46.246:6610/PLTV/77777777/224/3221225897/index.m3u8?#http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8#http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8#http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226880/index.m3u8
 #EXTINF:-1  tvg-logo="guangdong.png",广东卫视-cn
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 #EXTINF:-1  tvg-logo="dongfang.png",东方卫视
