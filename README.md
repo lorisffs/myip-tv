@@ -1,7 +1,7 @@
 
 
 
-
+https://raw.githubusercontent.com/lorisffs/iptv-4/master/daily.m3u8
 
 
 
