@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="cctv1.png",CCTV1
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1  tvg-logo="cctv2.png",CCTV2
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1  tvg-logo="cctv3.png",CCTV3
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1  tvg-logo="cctv4.png",CCTV4
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1  tvg-logo="cctv5.png",CCTV5
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1  tvg-logo="cctv5+.png",CCTV5+
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1  tvg-logo="cctv6.png",CCTV6
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1  tvg-logo="cctv7.png",CCTV7
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1  tvg-logo="cctv9.png",CCTV9
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1  tvg-logo="cctv10.png",CCTV10
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1  tvg-logo="cctv12.png",CCTV12
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1  tvg-logo="cctvchild.png",CCTV14
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1  tvg-logo="cctv4k.png",CCTV-4K 超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="guangdong.png",广东卫视-cn
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+#EXTINF:-1  tvg-logo="dongfang.png",东方卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+#EXTINF:-1  tvg-logo="anhui.png",安徽卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+#EXTINF:-1  tvg-logo="hubei.png",湖北卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+#EXTINF:-1  tvg-logo="hunan.png",湖南卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+#EXTINF:-1  tvg-logo="zhejiang.png",浙江卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1  tvg-logo="jiangsu.png",江苏卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+#EXTINF:-1  tvg-logo="xiamen.png",厦门第一台
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+#EXTINF:-1  tvg-logo="shanghaijishi.png",上海纪实
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1  tvg-logo="chongqing.png",重庆卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+#EXTINF:-1  tvg-logo="btv1.png",北京卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1  tvg-logo="heilongjiang.png",黑龙江卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1  tvg-logo="liaoning.png",辽宁卫视
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1  tvg-logo="4K.png",纯享4K
+http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1  tvg-logo="4K.png",爱上4K
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1  tvg-logo="chcgqdy.png",CHC高清电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1  tvg-logo="chcjtyy.png",CHC家庭电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1  tvg-logo="chc.png",CHC动作电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1  tvg-logo="ifeng.png",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,周星驰影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 ,成龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+#EXTINF:-1 ,张国荣影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+#EXTINF:-1 ,郭富城影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+#EXTINF:-1 ,刘德华影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
