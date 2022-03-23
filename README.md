@@ -1,6 +1,6 @@
 
 
-https://raw.githubusercontent.com/lorisffs/myip-tv/main/22.3.23
+https://raw.githubusercontent.com/lorisffs/myip-tv/main/220323.m3u8
 
 
 
