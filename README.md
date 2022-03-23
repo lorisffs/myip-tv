@@ -10,7 +10,7 @@
 https://raw.githubusercontent.com/lorisffs/myip-tv/main/IPTV.m3u
 
 
-https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv211213
+
 
 
 
