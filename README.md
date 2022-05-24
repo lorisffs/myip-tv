@@ -1,19 +1,12 @@
 
 
-https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv211214.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 https://raw.githubusercontent.com/lorisffs/myip-tv/main/iptv211214.m3u8
+
+
+
+
 
 
 
