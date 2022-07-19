@@ -2,7 +2,7 @@
 
 
 
-https://raw.githubusercontent.com/lorisffs/myip-tv/main/TV-171147-172038.m3u
+https://raw.githubusercontent.com/lorisffs/myip-tv/main/20220719.m3u
 
 
 
